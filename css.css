@@ -1,0 +1,96 @@
+
+/* CSS Document */
+
+body
+{
+	background: #7A6865 
+}
+article
+{
+padding:5px;
+border:solid 3px #ff006e;
+margin-top:5px;
+font-family: Times New Roman;
+}
+ 
+header
+{
+padding:0px;
+text-align:center;
+}
+ 
+aside
+{
+margin-top:5px;
+background-color:#654C47 ;
+color: white;
+padding:5px;
+text-align:center;
+font-style:italic;
+border:double 3px #b200ff;
+font-family: Times New Roman;
+}
+ 
+section
+{
+padding:5px;
+border:solid 3px #0026ff;
+margin-top:5px;
+font-family: Times New Roman;
+}
+ 
+footer
+{
+padding:5px;
+text-align:center;
+font-weight:bold;
+font-family: Times New Roman;
+}
+ 
+nav
+{
+text-align:center;
+font-family: Times New Roman;
+}
+ul
+{
+list-style-type: none;
+}
+ul li
+{
+display:inline-block;
+text-decoration: none; 
+padding: 5px 20px;
+border: 1px #fff;
+text-align:left;
+font-size:16px;
+font-weight:bold;
+font-family: Times New Roman;
+}
+h1
+{
+text-align: center;	
+}
+
+.zibabivj
+{
+	text-align: center; 
+  font-family: Times New Roman;
+}
+.aboutme
+{
+	 text-align: center;
+   font-family: Times New Roman;
+}
+.Products
+{
+	text-align: center;
+   font-family: Times New Roman;
+  background: #202020; 
+   color: white;
+   border:solid 3px #FE2600 ;
+}
+.foto
+{
+	text-align: center;
+}
